@@ -8,3 +8,5 @@
 1.	Point of Sales POS Transactions: 2015 Year Laptop Sales information
 2.	Laptops: Laptop’s configuration & product information
 3.	Store Locations: Store’s geographical information
+
+###### NOTE : A QUICK VIEW OF THE VISUALIZATION IS AVAILABLE IN 'PDF FORMAT - LAPTOP SALES ANALYSIS'. 
